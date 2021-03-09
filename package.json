@@ -1,6 +1,6 @@
 {
   "name": "electron-devdocs",
-  "version": "5.0.0-beta2",
+  "version": "5.3.0",
   "main": "background.js",
   "description": "an electron-vue app for devdocs",
   "homepage": "https://github.com/gengjiawen/electron-devdocs",
@@ -19,28 +19,29 @@
   "author": "Daniel Geng <technicalcute@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "core-js": "3.4.0",
-    "electron-context-menu": "0.15.1",
-    "electron-updater": "4.2.0",
-    "element-ui": "2.12.0",
-    "vue": "2.6.11",
-    "vue-router": "3.1.3"
+    "core-js": "3.9.1",
+    "electron-context-menu": "2.5.0",
+    "electron-updater": "4.3.8",
+    "element-ui": "2.15.1",
+    "vue": "2.6.12",
+    "vue-router": "3.5.1"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "4.0.5",
-    "@vue/cli-plugin-e2e-cypress": "4.0.5",
-    "@vue/cli-plugin-eslint": "4.0.5",
-    "@vue/cli-plugin-unit-jest": "4.0.5",
-    "@vue/cli-service": "4.0.5",
-    "@vue/eslint-config-prettier": "5.0.0",
-    "@vue/test-utils": "1.0.0-beta.29",
+    "@vue/cli-plugin-babel": "4.5.11",
+    "@vue/cli-plugin-e2e-cypress": "4.5.11",
+    "@vue/cli-plugin-eslint": "4.5.11",
+    "@vue/cli-plugin-unit-jest": "4.5.11",
+    "@vue/cli-service": "4.5.11",
+    "@vue/eslint-config-prettier": "6.0.0",
+    "@vue/test-utils": "1.1.3",
     "babel-eslint": "10.1.0",
-    "electron": "8.0.2",
-    "eslint": "6.6.0",
-    "eslint-plugin-prettier": "3.1.1",
-    "eslint-plugin-vue": "6.0.0",
-    "prettier": "1.19.1",
-    "vue-cli-plugin-electron-builder": "2.0.0-beta.4",
-    "vue-template-compiler": "2.6.11"
+    "electron": "12.0.0",
+    "electron-devtools-installer": "^3.1.1",
+    "eslint": "7.21.0",
+    "eslint-plugin-prettier": "3.3.1",
+    "eslint-plugin-vue": "7.7.0",
+    "prettier": "2.2.1",
+    "vue-cli-plugin-electron-builder": "2.0.0-rc.6",
+    "vue-template-compiler": "2.6.12"
   }
 }
