@@ -1,5 +1,19 @@
 # Changelog
 
+## [6.0.0](https://www.github.com/Mattlk13/electron-devdocs/compare/v5.2.0...v6.0.0) (2025-07-15)
+
+
+### ⚠ BREAKING CHANGES
+
+* support electron 12
+
+### Features
+
+* bump electron ([92f59e8](https://www.github.com/Mattlk13/electron-devdocs/commit/92f59e8a537c18eb0adaeabeb591bfbdba33db09))
+* bump electron version ([643781b](https://www.github.com/Mattlk13/electron-devdocs/commit/643781bb8774ba1e5eb90000cb919b0aee4a964b))
+* bump electronjs version ([be86a5e](https://www.github.com/Mattlk13/electron-devdocs/commit/be86a5e888be224263ec798ac57d003692a6096b))
+* support electron 12 ([1937127](https://www.github.com/Mattlk13/electron-devdocs/commit/1937127c45a8d138400f68b3022b4280170bf6db))
+
 ## [5.2.0](https://www.github.com/gengjiawen/electron-devdocs/compare/v5.1.0...v5.2.0) (2021-01-07)
 
 
